@@ -1,4 +1,4 @@
-package src;
+package src.test1;
 
 public class GameTest {
     public static void main(String[] args) {
